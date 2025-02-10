@@ -1,0 +1,23 @@
+{
+  "name": "ESHU-MD",
+  "description": "ESHU-MD has been designed to make things easier and fun while using WhatsApp. 👨‍💻❤️",
+  "logo": "https://i.ibb.co/TtgNkGp/20240921-191933.png",
+  "keywords": ["nodejs", "bot", "whatsapp bot", "multi device", "eshu-md"],
+  "success_url": "/",
+
+  "env": {
+    "FILENAME": {
+      "description": "Put your filename here.",
+      "required": true
+    }
+},
+
+     "buildpacks": [
+        {
+            "url": "https://github.com/heroku/heroku-buildpack-nodejs.git"
+        }
+     ],
+  "stack": "heroku-24"
+  
+  
+}
