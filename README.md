@@ -33,7 +33,7 @@
 
 ### PAIR WEB 🦋💗
 <p align="left">
-  <a href='https://supun-md-v3-pair.onrender.com' target="_blank">
+  <a href='https://paircode-b97ebd9f0adc.herokuapp.com/' target="_blank">
     <img alt='Pair Code Server 01' src='https://img.shields.io/badge/Get%20Pairing%20Code-darkpink?style=for-the-badge&logo=opencv&logoColor=black' width=150 height=28/>
   </a>
 </p>
